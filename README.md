@@ -5,13 +5,13 @@
 - Backend
 - Low level programming
 - Mobile apps
-## You can write me to my telegram (https://t.me/ACORU
-## I fluently (B1-B2) Speak english and mostly active from 8:00 to 23:00 by UTC+3 time
-## I will be realy glad to meet new people interested in programming!
+### You can write me to my telegram (https://t.me/ACORU
+### I fluently (B1-B2) Speak english and mostly active from 8:00 to 23:00 by UTC+3 time
+### I will be realy glad to meet new people interested in programming!
 have a nice day!
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=earhater&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Greenhaze)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used langs in public repos](https://github-readme-stats.vercel.app/api/top-langs/?username=earhater&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=Greenhaze)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **earhater/earhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
