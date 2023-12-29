@@ -41,7 +41,8 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 have a nice day!
-[![repo langs](https://api.githubtrends.io/user/svg/earhater/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=synthwaves)]
+
+![repo langs](https://api.githubtrends.io/user/svg/earhater/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=synthwaves)
 [![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=Greenhaze)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **earhater/earhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
