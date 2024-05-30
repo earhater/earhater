@@ -42,6 +42,8 @@
 
 have a nice day!
 
+[![time spent coding with plugin](https://wakatime.com/badge/user/018b962a-5e22-4872-aed1-df125dc2f20c.svg)](https://wakatime.com/@018b962a-5e22-4872-aed1-df125dc2f20c)
+
 ![repo langs](https://api.githubtrends.io/user/svg/earhater/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=synthwaves)
 [![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=Greenhaze)](https://github.com/anuraghazra/github-readme-stats)
 <!--
