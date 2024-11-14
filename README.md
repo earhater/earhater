@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,ansible,apple,arch,debian,kali,c,crystal,clion,idea,pycharm,neovim,cloudflare,docker,fastapi,gcp,git,githubactions,jenkins,go,gradle,hibernate,java,kafka,kotlin,kubernetes,mongodb,netlify,nginx,nodejs,postgres,rabbitmq,rails,redis,ruby,spring,swift,terraform" />
+    <img src="https://skillicons.dev/icons?i=apple,arch,debian,kali,androidstudio,clion,idea,neovim,pycharm,c,crystal,go,java,kotlin,ruby,swift,fastapi,hibernate,kafka,rails,spring,ansible,cloudflare,docker,gcp,githubactions,git,jenkins,kubernetes,netlify,terraform,mongodb,postgres,rabbitmq,redis,nginx,nodejs,gradle" />
   </a>
 </p>
 
