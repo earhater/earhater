@@ -22,6 +22,7 @@ have a nice day!
 
 ![repo langs](https://api.githubtrends.io/user/svg/earhater/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=synthwaves)
 [![Some funny time stats](https://github-readme-stats.vercel.app/api/wakatime?username=Greenhaze)](https://github.com/anuraghazra/github-readme-stats)
+[![wakaapi](https://wakapi.dev/api/activity/chart/greenhaze.svg)]
 <!--
 **earhater/earhater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
